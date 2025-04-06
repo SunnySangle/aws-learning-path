@@ -1,4 +1,4 @@
-Sure Sunny! Here's a **step-by-step guide to creating VPC Peering** and connecting two EC2 instances (in different VPCs) via Internet Gateway, Subnets, and Route Tables.
+Here's a **step-by-step guide to creating VPC Peering** and connecting two EC2 instances (in different VPCs) via Internet Gateway, Subnets, and Route Tables.
 
 ---
 
